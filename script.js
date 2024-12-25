@@ -1,11 +1,11 @@
 // 1. default perameter
 
-// function greet(name = "Guest") {
-//      console.log(`Hello, ${name}!`);
-//     // documetn.write(`Hello, ${name}!`);
-//      };
-// // greet(); 
-// greet(prompt("Enter Your Name"));
+function greet(name = "Guest") {
+     console.log(`Hello, ${name}!`);
+    // document.write(`Hello, ${name}!`);
+     };
+// greet(); 
+greet(prompt("Enter Your Name"));
 
 //  worked
 
